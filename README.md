@@ -1,6 +1,6 @@
 # Ecommerce App
 ## It is Online shop where you can purchase products.
-### - frontend --> Html , Css , JavaScript , Reactjs
+### - frontend --> JavaScript , Reactjs
 ### - Backend  --> Python , Django , rest Framework 
 
 ##  - Features
