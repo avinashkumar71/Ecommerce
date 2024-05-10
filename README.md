@@ -1,5 +1,9 @@
 # Ecommerce App
-## It is Online shop that is created by using Html , css , Javascript , react
+## It is Online shop where you can purchase products.
+### - frontend --> Html , Css , JavaScript , Reactjs
+### - Backend  --> Python , Django , rest Framework 
+
+##  - Features
 ### - Here you will see Carousel for top trending items.
 ### - All Products listings.
 ### - You Can filter your products by category wise.
